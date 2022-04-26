@@ -1,0 +1,18 @@
+{
+  "major": {
+    "version": 0,
+    "reload": true
+  },
+  "minor": {
+    "version": 0,
+    "reload": true
+  },
+  "feature": {
+    "version": 19,
+    "reload": true
+  },
+  "hotfix": {
+    "version": 10,
+    "reload": true
+  }
+}
